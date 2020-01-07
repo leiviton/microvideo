@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../api-websac/.idea/api-websac.iml" filepath="$PROJECT_DIR$/../api-websac/.idea/api-websac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../api_stock/.idea/api_stock.iml" filepath="$PROJECT_DIR$/../api_stock/.idea/api_stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code-micro-videos.iml" filepath="$PROJECT_DIR$/.idea/code-micro-videos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../front-stock/.idea/front-stock.iml" filepath="$PROJECT_DIR$/../front-stock/.idea/front-stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../front-web-sac/.idea/front-web-sac.iml" filepath="$PROJECT_DIR$/../front-web-sac/.idea/front-web-sac.iml" />
+    </modules>
+  </component>
+</project>
